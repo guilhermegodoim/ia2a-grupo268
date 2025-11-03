@@ -1,0 +1,12 @@
+streamlit==1.32.0
+google-generativeai==0.4.0
+langchain==0.1.10
+langchain-google-genai==0.0.11
+pydantic==2.6.1
+lxml==5.1.0
+pandas==2.2.0
+plotly==5.19.0
+python-dateutil==2.8.2
+openpyxl==3.1.2
+reportlab==4.1.0
+Pillow==10.2.0
